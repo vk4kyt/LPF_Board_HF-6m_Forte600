@@ -12170,7 +12170,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:6x1206"
+		(property "Footprint" "LPF_Footprints:6x1206_3x2"
 			(at 214.63 199.39 0)
 			(effects
 				(font
@@ -12189,6 +12189,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 214.63 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 214.63 199.39 0)
 			(effects
 				(font
@@ -12709,7 +12718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 208.28 68.58 0)
 			(effects
 				(font
@@ -13082,6 +13091,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 201.93 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0d703fa-aae4-4bd8-9203-48a10b79b7c1")
 		)
@@ -13190,7 +13208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 208.28 144.78 0)
 			(effects
 				(font
@@ -13436,7 +13454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 220.98 144.78 0)
 			(effects
 				(font
@@ -13505,7 +13523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:6x1206"
+		(property "Footprint" "LPF_Footprints:6x1206_3x2"
 			(at 227.33 199.39 0)
 			(effects
 				(font
@@ -13524,6 +13542,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 227.33 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 227.33 199.39 0)
 			(effects
 				(font
@@ -13729,7 +13756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 233.68 144.78 0)
 			(effects
 				(font
@@ -14493,6 +14520,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 240.03 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55362891-0a70-4cd7-bd6f-6e0a621871da")
 		)
@@ -14691,7 +14727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 233.68 68.58 0)
 			(effects
 				(font
@@ -14974,6 +15010,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 201.93 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95abecbf-7b47-4fe9-95b1-0c86cf4eede2")
 		)
@@ -15036,6 +15081,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 240.03 72.39 0)
 			(effects
 				(font
@@ -15379,6 +15433,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 214.63 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4566fd51-28c2-4ad4-9a61-1b63b0c41936")
 		)
@@ -15538,6 +15601,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 227.33 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 227.33 72.39 0)
 			(effects
 				(font
@@ -15838,6 +15910,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 240.03 97.79 0)
 			(effects
 				(font
@@ -16688,6 +16769,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 240.03 173.99 0)
 			(effects
 				(font
@@ -17785,7 +17875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 233.68 119.38 0)
 			(effects
 				(font
@@ -17852,7 +17942,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 220.98 119.38 0)
 			(effects
 				(font
@@ -18027,6 +18117,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 201.93 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 201.93 199.39 0)
 			(effects
 				(font
@@ -19116,7 +19215,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 220.98 68.58 0)
 			(effects
 				(font
@@ -19920,7 +20019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 233.68 93.98 0)
 			(effects
 				(font
@@ -20207,6 +20306,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 214.63 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8daed291-445d-4129-8b1f-6dc32d79a8fd")
 		)
@@ -20414,6 +20522,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 201.93 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 201.93 97.79 0)
 			(effects
 				(font
@@ -21201,7 +21318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 208.28 119.38 0)
 			(effects
 				(font
@@ -22230,6 +22347,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 227.33 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "93bbc7c3-e037-47de-8b3d-e7dc0f94d044")
 		)
@@ -22292,6 +22418,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 240.03 123.19 0)
 			(effects
 				(font
@@ -22978,6 +23113,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 227.33 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ec60ef8-2dfd-4deb-b289-ec26c006fb36")
 		)
@@ -23161,7 +23305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 208.28 93.98 0)
 			(effects
 				(font
@@ -23250,6 +23394,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 227.33 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 227.33 123.19 0)
 			(effects
 				(font
@@ -23398,6 +23551,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 201.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 201.93 72.39 0)
 			(effects
 				(font
@@ -24071,6 +24233,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 227.33 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dbd21784-f5c1-460b-962d-f47840a52611")
 		)
@@ -24310,6 +24481,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 240.03 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7398dcd-5737-4f84-a596-9a2f36f7a86f")
 		)
@@ -24372,6 +24552,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 201.93 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Refer"
 			(at 201.93 148.59 0)
 			(effects
 				(font
@@ -24681,7 +24870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 220.98 93.98 0)
 			(effects
 				(font
@@ -24845,7 +25034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 220.98 170.18 0)
 			(effects
 				(font
@@ -25607,6 +25796,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 214.63 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "28f233bf-9a2f-4589-bc1d-e1f8cf4a29cd")
 		)
@@ -26274,6 +26472,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 214.63 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac6cf944-fc05-432b-9a4d-a61f7c181abe")
 		)
@@ -26857,7 +27064,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 233.68 170.18 0)
 			(effects
 				(font
@@ -28673,6 +28880,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Refer"
+			(at 214.63 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc5b44b4-0cfc-4398-b9fb-3b06295c4c31")
 		)
@@ -28960,7 +29176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LPF_Footprints:T94-6_Inductor"
+		(property "Footprint" "LPF_Footprints:T106-Inductor"
 			(at 208.28 170.18 0)
 			(effects
 				(font
